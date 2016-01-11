@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//ip_proxy_spider/back_up_proxy_table.py=utf-8
+encoding//ip_proxy_spider/items.py=utf-8
+encoding//ip_proxy_spider/middlewares.py=utf-8
+encoding//ip_proxy_spider/pipelines.py=utf-8
+encoding//ip_proxy_spider/run.py=utf-8
+encoding//ip_proxy_spider/settings.py=utf-8
+encoding//ip_proxy_spider/spiders/ip_spider.py=utf-8
+encoding//ip_proxy_spider/spiders/rules.py=utf-8
+encoding//ip_proxy_spider/utils.py=utf-8
